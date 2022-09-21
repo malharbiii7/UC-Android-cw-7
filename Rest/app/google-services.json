@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "848847834982",
+    "firebase_url": "https://phoneshop-ddea0-default-rtdb.firebaseio.com",
+    "project_id": "phoneshop-ddea0",
+    "storage_bucket": "phoneshop-ddea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848847834982:android:450a77b62ac8a04cba82a7",
+        "android_client_info": {
+          "package_name": "com.example.rest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848847834982-qcjlkoosdbj42llf0b913qt7leoi1tik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDigip4NbO12W3GLo0d-tQnA6o3zh2uTfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848847834982-qcjlkoosdbj42llf0b913qt7leoi1tik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
